@@ -147,9 +147,12 @@ input[type="submit"]:hover {
   background-color: #3e8e41;
 }
 nav {
-  background-color: #333;
-  overflow: hidden;
-}
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
 
 nav ul {
   list-style-type: none;
