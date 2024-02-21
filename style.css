@@ -156,7 +156,7 @@ nav {
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 50px;
 }
 
 nav ul li {
@@ -172,5 +172,5 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #111;
+  background-color: #333;
 }
